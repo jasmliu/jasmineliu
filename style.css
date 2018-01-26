@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    font-size: 1.2rem;
+    font-family: Nunito Sans;
+}
+
+header {
+	text-align:center;
+	margin:50px auto;
+}
+
+main {
+    width: 700px;
+    margin: 50px auto;
+}
+
+main section {
+    margin: 25px 0px;
+}
+
+main h1 {
+	font-size: 1.2rem;
+}
+
+main .indent {
+    margin: 10px 10px 10px 35px;
+    line-height: 1.2;
+}
+
+a {
+	color:#0017FF;
+	text-decoration:none;
+}
+
+a:hover {
+	font-weight:bold;
+}
+
+img {
+	height: 545px;
+}
+
+.image {
+	text-align: center;
+	width: 700px;
+    margin: 50px auto;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
